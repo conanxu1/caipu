@@ -8,6 +8,7 @@
 
 ```shell
 rdfind -deleteduplicates true ~/Downloads
+unison -batch dirA dirB
 ```
 
 
@@ -24,7 +25,7 @@ rdfind -deleteduplicates true ~/Downloads
 
 okular
 
-
+unison
 
 
 
